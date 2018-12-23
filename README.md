@@ -1,1 +1,1 @@
-this is a project for PlanetScale
+thisis is a project for PlanetScale
